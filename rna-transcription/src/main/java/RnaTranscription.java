@@ -1,6 +1,6 @@
 class RnaTranscription {
 
-    String transcribe(String dnaStrand) throws IllegalArgumentException {
+    String transcribe(String dnaStrand){
         StringBuilder rnaStrand = new StringBuilder();
         char[] dna = dnaStrand.toCharArray();
         for (char character : dna) {
