@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PangramCheckerTest" tests="9" skipped="8" failures="0" errors="0" timestamp="2017-10-24T19:53:16" hostname="DESKTOP-V33EJB1" time="0.137">
+  <properties/>
+  <testcase name="pangramWithMixedCaseAndPunctuationIsRecognizedAsPangram" classname="PangramCheckerTest" time="0.013">
+    <skipped/>
+  </testcase>
+  <testcase name="pangramWithNumbersIsRecognizedAsPangram" classname="PangramCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="phraseMissingCharacterXIsNotPangram" classname="PangramCheckerTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="pangramWithUnderscoresIsRecognizedAsPangram" classname="PangramCheckerTest" time="0.015">
+    <skipped/>
+  </testcase>
+  <testcase name="upperAndLowerCaseVersionsOfTheSameCharacterShouldNotBeCountedSeparately" classname="PangramCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="pangramWithOnlyLowerCaseLettersIsRecognizedAsPangram" classname="PangramCheckerTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="phraseWithMissingLettersReplacedByNumbersIsNotPangram" classname="PangramCheckerTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="anotherPhraseMissingCharacterXIsNotPangram" classname="PangramCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="emptySentenceIsNotPangram" classname="PangramCheckerTest" time="0.083"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
